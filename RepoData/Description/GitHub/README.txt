@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+2️⃣️0️⃣️1️⃣️5️⃣️🌉️📖️ The official documentation source repository for the Seanspokane2015 Platform, a custom image of Seanspokane2015 projects. Inspired by the CatsEye Technologies Platform, and the Haskell Platform.
